@@ -47,7 +47,7 @@ function Checkout() {
         </div>
 
         {/* right */}
-        <div className="flex flec-col bg-white p-10 shadow-md">
+        <div className="flex flex-col bg-white p-10 shadow-md">
             {items.length > 0 && (
 
               <>
